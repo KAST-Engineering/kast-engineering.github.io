@@ -1,25 +1,16 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+title = "KAST"
+date = "2024-01-14"
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+&emsp;Dois engenheiros com experiência profissional em desenvolvimento de produtos se juntam para suprir a necessidade das empresas da região relacionadas a desenvolvimento de novos produtos e sistemas, e otimização e automação de processos. Ambos entusiastas do desenvolvimento de sistemas, atuamos principalmente na criação de novos softwares e hardwares para seu negócio. Sejam eles sistemas e produtos para que sua empresa comercialize, como também sistemas para aumentar sua capacidade de produção ou monitoramento de soluções.
 
-Hugo makes use of a variety of open source projects including:
+&emsp;Graduados em Engenharia Mecatrônica pela UFSC, contamos com mais de quatro anos de experiência profissional atuando em grades indústrias da região como:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* BMW
+* WEG
+* Whirlpool
+* Wetzel
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+&emsp;Entre em contato conosco por e-mail ou What'sApp e nos conte sua ideia de negócio para discutirmos a viabilidade!
