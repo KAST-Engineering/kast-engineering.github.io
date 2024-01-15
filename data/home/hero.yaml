@@ -7,7 +7,7 @@ content:
 
   buttonPrimary:
     label: "Quem somos nós?"
-    url: ""
+    url: "https://kast-engineering.github.io/about"
 
   buttonSecondary:
     label: "Entre em contato"
