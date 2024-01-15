@@ -9,7 +9,7 @@ title: "KAST"
 summaryLength: 20
 
 params:
-  title: "KAST Engineering"
+  title: "KAST Engenharia"
   description: "Nos especializamos em soluções de engenharia focadas em software e hardware."
   images: 
     - "images/hero-image.png"
@@ -32,9 +32,10 @@ params:
 
   contact:
     - "kastengineering.contact@gmail.com"
-    - "+55 (047) 99792-5567"
+    - "+55 (47) 99792-5567"
+    - "+55 (47) 99250-0637"
 
-  copyright: "© 2024 KAST Engineering All Rights Reserved"
+  copyright: "© 2024 KAST Engenharia All Rights Reserved"
 
 menus:
   main:
@@ -42,27 +43,15 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "About us"
+    - name: "About"
       url: "/about"
       weight: 2
 
-#     - name: "Our team"
-#       url: "/#"
-#       weight: 3
-
-#     - name: "Pricing"
-#       url: "/#"
-#       weight: 4
-
-#     - name: "Blog"
-#       url: "/blog"
-#       weight: 5
-
-  # buttons:
-  #   - name: "Book a call"
-  #     url: "/#"
-  #     weight: 5
-  #     pre: "btn btn-primary text-light"
+  buttons:
+    - name: "Contact"
+      url: "/contact"
+      weight: 3
+      pre: "btn btn-primary text-light"
 
   # footer:
   #   - name: "Home"
