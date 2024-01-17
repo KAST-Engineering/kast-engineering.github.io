@@ -37,20 +37,44 @@ params:
 
   copyright: "© 2024 KAST Engenharia All Rights Reserved"
 
+  copyright: "© 2024 KAST Engenharia, All Rights Reserved"
+
 menus:
   main:
-    - name: "Home"
+    - name: "Início"
       url: "/#hero"
       weight: 1
 
-    - name: "About"
+    - name: "Sobre Nós"
       url: "/about"
       weight: 2
 
-  buttons:
+    - name: "Serviços"
+      url: "/servico"
+      weight: 3
+
     - name: "Contact"
       url: "/contact"
-      weight: 3
+      weight: 4
+    
+  buttons:
+    
+#     - name: "Our team"
+#       url: "/#"
+#       weight: 3
+
+#     - name: "Pricing"
+#       url: "/#"
+#       weight: 4
+
+#     - name: "Blog"
+#       url: "/blog"
+#       weight: 5
+
+  buttons:
+    - name: "Entrar em Contato"
+      url: "/#"
+      weight: 5
       pre: "btn btn-primary text-light"
 
   # footer:
