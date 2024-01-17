@@ -52,10 +52,6 @@ menus:
     - name: "Serviços"
       url: "/servico"
       weight: 3
-
-    - name: "Contato"
-      url: "/contact"
-      weight: 4
     
   buttons:
     
@@ -73,7 +69,7 @@ menus:
 
   buttons:
     - name: "Entrar em Contato"
-      url: "/#"
+      url: "/contact"
       weight: 5
       pre: "btn btn-primary text-light"
 
