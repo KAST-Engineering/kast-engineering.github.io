@@ -2,6 +2,7 @@
 title = "Contato"
 date = "2024-01-15"
 author = "Hugo Authors"
+description = "Entre em contato e vamos conversar sobre a sua ideia e viabilidade do projeto!"
 +++
 
 ```bash
