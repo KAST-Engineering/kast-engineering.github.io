@@ -1,0 +1,26 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Nossos principais serviços"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh
+  elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut
+  dolor urna."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Websites"
+      text: "Trabalhamos com criação de websites interativos como este aqui.
+      O website pode ser integrado completamente com os conteúdos de suas redes
+      sociais, como vídeos e fotos de plataformas como Youtube e Instagram."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Projetos de sistemas"
+      text: "Projetamos sistemas e soluções para sua empresa, como sistemas de
+      monitoramento, integração e automação de processos. Nossa especialidade
+      são soluções de software e hardware."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
