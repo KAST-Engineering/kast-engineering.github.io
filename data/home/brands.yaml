@@ -1,0 +1,10 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Contamos com anos de experiência profissional atuando em grandes indústrias da região!"
+  items:
+    - "images/brands/bmw.png"
+    - "images/brands/weg.png"
+    - "images/brands/wetzel.png"
+    - "images/brands/whirlpool.png"
