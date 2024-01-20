@@ -19,7 +19,7 @@ params:
   favicons:
     themeColor: "#FFFFFF"
     backgroundColor: "#FFFFFF"
-    faviconColor: "#000000"
+    faviconColor: "#FFFFFF"
 
   # social:
   #   dribbble: "#"
