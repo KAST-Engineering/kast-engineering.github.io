@@ -1,0 +1,17 @@
+.section.hero {
+  .hero-image {
+    @media (min-width: 1400px) {
+      img {
+        padding-top: 3em;
+        padding-bottom: 3em;
+        max-width: 150%;
+        float: right;
+      }
+    }
+  }
+  .hero-title {
+    strong {
+      color: $danger;
+    }
+  }
+}
