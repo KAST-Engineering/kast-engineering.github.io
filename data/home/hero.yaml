@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Precisa de ajuda no seu negócio?"
-  text: "Atuamos no desenvolvimento de produtos e soluções do ZERO ou auxiliamos na melhoria e automação de processos."
+  title: "Quer tornar seu projeto em realidade?"
+  text: "**Desenvolvemos seus produtos e soluções do zero!** Nosso time de engenheiros, especializado em software e hardware, vai lhe ajudar a tirar suas ideias do papel."
 
   buttonPrimary:
     label: "Quem somos nós?"

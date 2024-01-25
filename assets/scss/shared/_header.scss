@@ -1,4 +1,8 @@
 .navbar {
+  -webkit-box-shadow: 0 8px 6px -6px #e6e6e6;
+  -moz-box-shadow: 0 8px 6px -6px #e6e6e6;
+  box-shadow: 0 8px 6px -6px #e6e6e6;
+	padding: 6px !important;
   .navbar-brand {
     img {
       width: auto;
